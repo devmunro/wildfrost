@@ -43,6 +43,9 @@
         <Reference Include="System.Core"/>
         <Reference Include="System.Data"/>
         <Reference Include="System.Xml"/>
+        <Reference Include="Unity.Localization">
+          <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Wildfrost\Modded\Wildfrost_Data\Managed\Unity.Localization.dll</HintPath>
+        </Reference>
         <Reference Include="UnityEngine">
           <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Wildfrost\Modded\Wildfrost_Data\Managed\UnityEngine.dll</HintPath>
         </Reference>
